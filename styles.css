@@ -35,3 +35,18 @@ body {
     margin-left: auto;
     margin-right: auto;
 }
+a {
+    color: black;
+  }
+  
+  a:visited {
+    color: black;
+  }
+  
+  a:hover {
+    color: red;
+  }
+  
+  a:active {
+    color: red;
+  }
