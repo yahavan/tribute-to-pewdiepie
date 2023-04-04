@@ -1,0 +1,17 @@
+.mainhead {
+    text-align: center;
+    font-size: 100px;
+    background-color: aliceblue;
+}
+
+
+.pewdsimage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 47%;
+}
+
+body {
+    background-image: url(https://w0.peakpx.com/wallpaper/130/85/HD-wallpaper-pewdiepie-399.jpg);
+}
