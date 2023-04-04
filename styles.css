@@ -1,7 +1,7 @@
 .mainhead {
     text-align: center;
     font-size: 100px;
-    background-color: aliceblue;
+   
 }
 
 
@@ -13,5 +13,11 @@
 }
 
 body {
-    background-image: url(https://w0.peakpx.com/wallpaper/130/85/HD-wallpaper-pewdiepie-399.jpg);
+    background-color:beige
+}
+
+.p1{
+    font-family: cursive;
+    font-size: 20px;
+    border-style: dotted;
 }
